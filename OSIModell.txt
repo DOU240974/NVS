@@ -1,0 +1,23 @@
+OSI-Modell Netzwerk
+
+Hat 7 schichten in Theorie, in Praxis 567 nur eine Schicht 
+
+
+1 Schicht Phisical 
+Kabel Strom 
+Funk Em
+Licht LWL 
+
+
+2 Schicht Datalink  (switch nicht routing )      Broadcoast
+ARP :  Adress Resolution Protokol                Broadcoast
+Ethernet Frames                                  Broadcoast
+
+
+3 Schicht Network 
+IPv4
+Bgp
+OSPF
+IPv6
+
+
