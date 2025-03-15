@@ -41,7 +41,9 @@ Wie lautet die Subnetzmaske bei der Netzadresse: 17.0.0.0 mit 10 verwendbaren Su
 Antwort in Sätzen, wie sie zu dieser Lösung kommen; und erstelle eine Tabelle:
 
 **Antwort**
-17.0.0.0/28                         Host 14 
+17.0.0.0/28                         Host 14          Subnetzmaske 255.255.255.240
+Habe dann 16 verwendbare Subnetze mit je 14 Hosts - Verwenden tun wir nur die 10 nötigen Subnetze mit 14 Hosts
+
 ## Übung 5
 
 Bestimmen Sie die Subnetmaske mit folgenden Angaben:
@@ -51,6 +53,9 @@ Subnetze: Anzahl 5
 Mindestanzahl von Hosts je Subnetz: 10
 
 **Antwort**
+210.52.190.0/27 = 8 Subnetze mit je 30 Hosts          Subnetzmaske: 255.255.255.224
+Davon werden nur 5 Subnetze verwendet
+
 
 ## Übung 6
 
@@ -59,8 +64,12 @@ Antwort:
 
 **Antwort**
 
+/30 = 2 Hosts nutzbar               Verwendung:
+
 ## Übung 7
 
 Nennen Sie den jeweiligen Netz- und Hostanteil der Klassen A, B und C
 
 **Antwort**
+
+

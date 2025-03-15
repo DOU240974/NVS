@@ -3,17 +3,32 @@
 zb 192.168.0.0/24 = 11111111.11111111.11111111.00000000 (256 Möglichkeiten, erste Möglichkeit 0 & letzte Möglichkeit 255)
 erste und letzte (0 & 255) Adresse nie nehmen da 0 ist Eingangsadresse und 255 ist Broadcastadresse
 
-/24 = 256 - 254 Hosts 
-/25 = 128 - 126 Hosts Subnetzmaske: 255.255.255.128 (128)
-/26 =  64 -  62 Hosts Subnetzmaske: 255.255.255.192 (128+64)
-/27 =  32 -  30 Hosts Subnetzmaske: 255.255.255.224 (128+64+32)
-/28 =  16 -  14 Hosts Subnetzmaske: 255.255.255.240 (128+64+32+16)
-/29 =   8 -   6 Hosts Subnetzmaske: 255.255.255.248 (128+64+32+16+8)
-/30 =   4 -   2 Hosts Subnetzmaske: 255.255.255.252 (128+64+3216+8+4)
-/31 =   2 -   0 Hosts Subnetzmaske: 255.255.255.254 (128+64+3216+8+4+2)
-/32 =   1 -   0 Hosts Subnetzmaske: 255.255.255.255 (128+64+3216+8+4+2+1)
+
+
+/24 = 256 - nutzbare 254 Hosts 
+/25 = 128 - nutzbare 126 Hosts Subnetzmaske: 255.255.255.128 (128)
+/26 =  64 - nutzbare  62 Hosts Subnetzmaske: 255.255.255.192 (128+64)
+/27 =  32 - nutzbare  30 Hosts Subnetzmaske: 255.255.255.224 (128+64+32)
+/28 =  16 - nutzbare  14 Hosts Subnetzmaske: 255.255.255.240 (128+64+32+16)
+/29 =   8 - nutzbare   6 Hosts Subnetzmaske: 255.255.255.248 (128+64+32+16+8)
+/30 =   4 - nutzbare   2 Hosts Subnetzmaske: 255.255.255.252 (128+64+3216+8+4)
+/31 =   2 - nutzbare   0 Hosts Subnetzmaske: 255.255.255.254 (128+64+3216+8+4+2)    In der Regel endet es bei 30 
+/32 =   1 - nutzbare   0 Hosts Subnetzmaske: 255.255.255.255 (128+64+3216+8+4+2+1)
 
 Je kleiner die / Zahl ist desto größer ist das Netz
 
+
+
+H.D. Tipps
+
+
+Mac adressen ändern sich abschnittsweise & IP bleiben gleich 
+
+Broadcast rennt nur im Subnetz
+
+ARP ist da um IP adressen zu MAC adressen zu ordnen,Tabelle
+
+(Dynamisches Routen - Router kommunizieren untereinander um MAC adressen,Wege zu ordnen,Tabelle)
+(Statisches Routen- Weg wird selbst in Tabelle bestimmt)
 
 
