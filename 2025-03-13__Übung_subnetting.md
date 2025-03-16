@@ -98,9 +98,74 @@ Subnetz  8: 210.52.190.224/27  - 210.52.190.255/27    30 nutzbare Hosts    Subne
 Teile  ein /30 Netz auf!    Wozu werden diese /30 Netze am häufigsten verwendet?
 Antwort:
 
-**Antwort**
 
+**Antwort**
 64 mögliche Subnetze     /30 = 2 Hosts nutzbar     Verwendung: für eine einzelne Router-zu-Router-Verbindung verwendet 
+Bsp. 192.168.0.0/30
+Subnetz  1 192.168.0.0/30   - 192.168.0.3/30        Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz  2 192.168.0.4/30   - 192.168.0.7/30        Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz  3 192.168.0.8/30   - 192.168.0.11/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz  4 192.168.0.12/30  - 192.168.0.15/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz  5 192.168.0.16/30  - 192.168.0.19/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz  6 192.168.0.20/30  - 192.168.0.23/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz  7 192.168.0.24/30  - 192.168.0.27/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz  8 192.168.0.28/30  - 192.168.0.31/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz  9 192.168.0.32/30  - 192.168.0.35/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 10 192.168.0.36/30  - 192.168.0.39/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 11 192.168.0.40/30  - 192.168.0.43/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 12 192.168.0.44/30  - 192.168.0.47/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 13 192.168.0.48/30  - 192.168.0.51/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 14 192.168.0.52/30  - 192.168.0.55/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 15 192.168.0.56/30  - 192.168.0.59/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 16 192.168.0.60/30  - 192.168.0.63/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 17 192.168.0.64/30  - 192.168.0.67/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 18 192.168.0.68/30  - 192.168.0.71/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 19 192.168.0.72/30  - 192.168.0.75/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 20 192.168.0.76/30  - 192.168.0.79/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 21 192.168.0.80/30  - 192.168.0.83/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 22 192.168.0.84/30  - 192.168.0.87/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 23 192.168.0.88/30  - 192.168.0.91/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 24 192.168.0.92/30  - 192.168.0.95/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 25 192.168.0.96/30  - 192.168.0.99/30       Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 26 192.168.0.100/30 - 192.168.0.103/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 27 192.168.0.104/30 - 192.168.0.107/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 28 192.168.0.108/30 - 192.168.0.111/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 29 192.168.0.112/30 - 192.168.0.115/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 30 192.168.0.116/30 - 192.168.0.119/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 31 192.168.0.120/30 - 192.168.0.123/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 32 192.168.0.124/30 - 192.168.0.127/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 33 192.168.0.128/30 - 192.168.0.131/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 34 192.168.0.132/30 - 192.168.0.135/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 35 192.168.0.136/30 - 192.168.0.139/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 36 192.168.0.140/30 - 192.168.0.143/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 37 192.168.0.144/30 - 192.168.0.147/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 38 192.168.0.148/30 - 192.168.0.151/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 39 192.168.0.152/30 - 192.168.0.155/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 40 192.168.0.156/30 - 192.168.0.159/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 41 192.168.0.160/30 - 192.168.0.163/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 42 192.168.0.164/30 - 192.168.0.167/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 43 192.168.0.168/30 - 192.168.0.171/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 44 192.168.0.172/30 - 192.168.0.175/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 45 192.168.0.176/30 - 192.168.0.179/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 46 192.168.0.180/30 - 192.168.0.183/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 47 192.168.0.184/30 - 192.168.0.187/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 48 192.168.0.188/30 - 192.168.0.191/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 49 192.168.0.192/30 - 192.168.0.195/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 50 192.168.0.196/30 - 192.168.0.199/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 51 192.168.0.200/30 - 192.168.0.203/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 52 192.168.0.204/30 - 192.168.0.207/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 53 192.168.0.208/30 - 192.168.0.211/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 54 192.168.0.212/30 - 192.168.0.215/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 55 192.168.0.216/30 - 192.168.0.219/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 56 192.168.0.220/30 - 192.168.0.223/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 57 192.168.0.224/30 - 192.168.0.227/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 58 192.168.0.228/30 - 192.168.0.231/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 59 192.168.0.232/30 - 192.168.0.235/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 60 192.168.0.236/30 - 192.168.0.239/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 61 192.168.0.240/30 - 192.168.0.243/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 62 192.168.0.244/30 - 192.168.0.247/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 63 192.168.0.248/30 - 192.168.0.251/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
+Subnetz 64 192.168.0.252/30 - 192.168.0.255/30      Je 2 Nutzbare Hosts   Subnetzmaske: 255.255.255.252
 
 ## Übung 7
 
