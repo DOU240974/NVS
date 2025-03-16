@@ -1,5 +1,5 @@
-192.168.0.0 = privates Netz
-32 Bits je 8 * 4 durch punkte getrennt
+192.168.0.0 = privates Netz 
+32 Bits je 8 Bytes(Oktet)* 4 durch punkte getrennt
 zb 192.168.0.0/24 = 11111111.11111111.11111111.00000000 (256 Möglichkeiten, erste Möglichkeit 0 & letzte Möglichkeit 255)
 erste und letzte (0 & 255) Adresse nie nehmen da 0 ist Eingangsadresse und 255 ist Broadcastadresse
 

@@ -42,7 +42,30 @@ Antwort in Sätzen, wie sie zu dieser Lösung kommen; und erstelle eine Tabelle:
 
 **Antwort**
 17.0.0.0/28                         Host 14          Subnetzmaske 255.255.255.240
+
 Habe dann 16 verwendbare Subnetze mit je 14 Hosts - Verwenden tun wir nur die 10 nötigen Subnetze mit 14 Hosts
+
+Die 10 Netze in verwendung mit den verwendeten 12 Hosts
+
+Subnetz  1: 17.0.0.0/28   - 17.0.0.15/28    14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz  2: 17.0.0.16/28  - 17.0.0.31/28    14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz  3: 17.0.0.32/28  - 17.0.0.47/28    14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz  4: 17.0.0.48/28  - 17.0.0.63/28    14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz  5: 17.0.0.64/28  - 17.0.0.79/28    14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz  6: 17.0.0.80/28  - 17.0.0.95/28    14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz  7: 17.0.0.96/28  - 17.0.0.111/28   14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz  8: 17.0.0.112/28 - 17.0.0.127/28   14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz  9: 17.0.0.128/28 - 17.0.0.143/28   14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz 10: 17.0.0.144/28 - 17.0.0.159/28   14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+
+Die restlichen 6 Netze die nicht verwendet werden (falls das Netz weiter so geteilt worden ist)  
+
+Subnetz 11: 17.0.0.160/28 - 17.0.0.175/28   14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz 12: 17.0.0.176/28 - 17.0.0.191/28   14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz 13: 17.0.0.192/28 - 17.0.0.207/28   14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz 14: 17.0.0.208/28 - 17.0.0.223/28   14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz 15: 17.0.0.224/28 - 17.0.0.239/28   14 nutzbare Hosts    Subnetzmaske 255.255.255.240
+Subnetz 16: 17.0.0.240/28 - 17.0.0.255/28   14 nutzbare Hosts    Subnetzmaske 255.255.255.240
 
 ## Übung 5
 
@@ -56,6 +79,19 @@ Mindestanzahl von Hosts je Subnetz: 10
 210.52.190.0/27 = 8 Subnetze mit je 30 Hosts          Subnetzmaske: 255.255.255.224
 Davon werden nur 5 Subnetze verwendet
 
+Die 5 Netze in verwendung mit den verwendeten 10 Hosts
+
+Subnetz  1: 210.52.190.0/27    - 210.52.190.31/27     30 nutzbare Hosts    Subnetzmaske 255.255.255.224
+Subnetz  2: 210.52.190.32/27   - 210.52.190.63/27     30 nutzbare Hosts    Subnetzmaske 255.255.255.224
+Subnetz  3: 210.52.190.64/27   - 210.52.190.95/27     30 nutzbare Hosts    Subnetzmaske 255.255.255.224
+Subnetz  4: 210.52.190.96/27   - 210.52.190.127/27    30 nutzbare Hosts    Subnetzmaske 255.255.255.224
+Subnetz  5: 210.52.190.128/27  - 210.52.190.159/27    30 nutzbare Hosts    Subnetzmaske 255.255.255.224
+
+Die restlichen 3 Netze die nicht verwendet werden (falls das Netz weiter so geteilt worden ist)  
+
+Subnetz  6: 210.52.190.160/27  - 210.52.190.191/27    30 nutzbare Hosts    Subnetzmaske 255.255.255.224
+Subnetz  7: 210.52.190.192/27  - 210.52.190.223/27    30 nutzbare Hosts    Subnetzmaske 255.255.255.224
+Subnetz  8: 210.52.190.224/27  - 210.52.190.255/27    30 nutzbare Hosts    Subnetzmaske 255.255.255.224
 
 ## Übung 6
 
@@ -64,7 +100,7 @@ Antwort:
 
 **Antwort**
 
-/30 = 2 Hosts nutzbar               Verwendung:
+64 mögliche Subnetze     /30 = 2 Hosts nutzbar     Verwendung: für eine einzelne Router-zu-Router-Verbindung verwendet 
 
 ## Übung 7
 
