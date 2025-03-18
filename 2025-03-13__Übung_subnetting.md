@@ -172,5 +172,10 @@ Subnetz 64 192.168.0.252/30 - 192.168.0.255/30      Je 2 Nutzbare Hosts   Subnet
 Nennen Sie den jeweiligen Netz- und Hostanteil der Klassen A, B und C
 
 **Antwort**
+Eine IPv4-Adresse besteht aus 32 Bit
+Jede Adressklasse hat eine feste Aufteilung zwischen Netz- und Hostanteil.
+Klase A hat 8 Bit Netzanteil und 24 Bit Hostanteil (für sehr große Netwerke)
+Klase B hat 16 Bit Netzanteil und 16 Bit Hostanteil (für mittelgroße Netzwerke)
+Klase C hat 24 Bit Netzanteil und 8 Bit Hostanteil (für kleine Netwerke)
 
 
