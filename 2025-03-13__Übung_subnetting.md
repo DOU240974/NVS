@@ -32,8 +32,8 @@ Erstelle eine Tabelle mit folgenden Angaben:
 Netzwerkadresse,               nutzbare Hosts,                    Broadcastadresse,              Subnetzmaske.
 
 **Antwort**
-0-127,   172.28.40.0/25           Host 126                        172.28.40.127/25              255.255.255.128
-128-255, 172.28.40.128/25         Host 126                        172.28.40.255/25              255.255.255.128
+0-127,   172.28.40.0/27           Host 30                        172.28.40.31/27             255.255.255.224
+128-255, 172.28.40.32/27          Host 30                        172.28.40.63/27             255.255.255.224
 
 ## Übung 4
 
