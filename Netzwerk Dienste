@@ -1,0 +1,42 @@
+DHCP ein server der IP adressen hergibt - über LAN verbunden (nicht im Internet)
+OSI Model layer 4
+Dynamic_Host_Conﬁguration_Protocol 
+
+ich krieg : IP/Gateway/Subnetzmaske
+            dns server(s) 
+            Lease dauer 
+            domain
+
+über Utp
+
+DHCP server ist im Router oder Modem 
+
+
+DNS - Server Domain Name System
+
+beantwortet anfragen mit passenden IP adressen dazu
+
+es fangt an mit den 13 Root server wird von ICANN betreut (ohne Rootserver keine dns server)
+(Internet_Corporation_for_Assigned_Names_and_Numbers)
+
+
+Tools zum Dns Server abfragen 
+
+cmd, Kommandozeile - Windows
+putty, ermöglicht ssh Verbindung
+ping, icmp testnachricht - Diagnose tool 
+traceroute/tracert - Diagnose tool (zeigt an über wie viele gateways) hops
+
+dig - dns abfrage (nach installieren)
+wsl - nach installieren (Whois) 
+
+DNS Typen 
+Klasse A      - Ip adresse
+Klasse AAAA   - Ipv6 adressen
+Klasse SRV    - Service roots
+Klasse MX     - Mail Exchanger 
+Klasse CNAME  - Alias, canonnical Name
+Klasse PTR    - Gegenteil von Klasse A
+Klasse NS     - Nameserver
+
+GRG alles rausfinden infos dhcp server 

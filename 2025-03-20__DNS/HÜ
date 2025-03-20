@@ -1,0 +1,19 @@
+Mein Partner ist der Herr Cigci 
+
+
+C:\Users\fahdw>ping 192.168.33.142
+
+Ping wird ausgeführt für 192.168.33.142 mit 32 Bytes Daten:
+Antwort von 192.168.33.142: Bytes=32 Zeit=98ms TTL=64
+Antwort von 192.168.33.142: Bytes=32 Zeit=3ms TTL=64
+Antwort von 192.168.33.142: Bytes=32 Zeit=3ms TTL=64
+Antwort von 192.168.33.142: Bytes=32 Zeit=3ms TTL=64
+
+Ping-Statistik für 192.168.33.142:
+    Pakete: Gesendet = 4, Empfangen = 4, Verloren = 0
+    (0% Verlust),
+Ca. Zeitangaben in Millisek.:
+    Minimum = 3ms, Maximum = 98ms, Mittelwert = 26ms
+
+
+    
