@@ -16,4 +16,49 @@ Ca. Zeitangaben in Millisek.:
     Minimum = 3ms, Maximum = 98ms, Mittelwert = 26ms
 
 
+
+
+
+    C:\Users\fahdw>dig whitehouse.gov
+
+    ; <<>> DiG 9.16.28 <<>> whitehouse.gov
+    ;; global options: +cmd
+    ;; Got answer:
+    ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7802
+    ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
     
+    ;; OPT PSEUDOSECTION:
+    ; EDNS: version: 0, flags:; udp: 512
+    ;; QUESTION SECTION:
+    ;whitehouse.gov.                        IN      A
+    
+    ;; ANSWER SECTION:
+    whitehouse.gov.         300     IN      A       192.0.66.127
+    
+    ;; Query time: 21 msec
+    ;; SERVER: 192.168.0.1#53(192.168.0.1)
+    ;; WHEN: Sun Mar 23 22:49:09 Mitteleuropõische Zeit 2025
+    ;; MSG SIZE  rcvd: 59
+
+    
+
+    C:\Users\fahdw>dig zdf.de
+
+; <<>> DiG 9.16.28 <<>> zdf.de
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35528
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;zdf.de.                                IN      A
+
+;; ANSWER SECTION:
+zdf.de.                 19      IN      A       91.197.29.78
+
+;; Query time: 12 msec
+;; SERVER: 192.168.0.1#53(192.168.0.1)
+;; WHEN: Sun Mar 23 22:49:51 Mitteleuropõische Zeit 2025
+;; MSG SIZE  rcvd: 51
