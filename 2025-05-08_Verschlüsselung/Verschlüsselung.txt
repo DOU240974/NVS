@@ -1,0 +1,19 @@
+Symmetrische Verschlüsselung (für große files)
+
+Hash - Eingabedaten (egal wie lang) wandelt in Zeichenkette mit fester Länge
+
+Identität (SHA256/SHA512 oder MD4/MD5)
+
+Asymmetrisch-Verschlüsselung 2Keys 1x zum verschlüsseln und 1x zum entschlüsseln (aus private geht public aber nicht umgekehrt)
+
+Signatur
+
+Zertifikat
+
+Open SSL (Secure Socket Layer)
+
+TLS (Transport Layer Security)
+
+PKI (Public Key Infrastructure)  
+
+
