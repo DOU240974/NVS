@@ -1,0 +1,29 @@
+Informatik - Wissenschaft von der systematischen Verarbeitung, Speicherung und Übertragung von Informationen
+
+Teilgebiete der Informatik:     Technische Informatik - Hardware, Schaltungen, Rechnerarchitektur
+                              Theoretische Informatik - Logik, Automaten, Algorithmen, Berechenbarkeit
+                                Praktische Informatik - Betriebssysteme, Programmiersprachen, Compiler
+                                Angewandte Informatik - Softwareentwicklung, Datenbanken, Künstliche Intelligenz
+                  Wirtschaftsinformatik/Bioinformatik - Spezielle Anwendungen in anderen Disziplinen
+
+
+
+Algorithmus - Endliche, eindeutige Schrittfolge zur Problemlösung
+Datenstruktur -	Art und Weise, wie Daten gespeichert und organisiert werden (z. B. Arrays, Listen, Bäume)
+Bit & Byte -	Kleinste Informationseinheit (1 Bit = 0 oder 1, 1 Byte = 8 Bit)
+Compiler - Übersetzt Quellcode in Maschinensprache
+Programmierung - Schreiben von Anweisungen für den Computer
+Software - Programme
+Hardware - physikalische Komponenten
+Betriebssystem - Verbindet Hard- und Software (z. B. Windows, Linux)
+
+
+
+Variablen & Datentypen (int, float, string, bool)
+Kontrollstrukturen (if, else, for, while)
+Funktionen/Methoden
+Objektorientierung (Klassen, Objekte, Vererbung)
+Beliebte Sprachen: Python, Java, C++, JavaScript
+
+
+
