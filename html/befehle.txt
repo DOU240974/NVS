@@ -1,0 +1,16 @@
+<!DOCTYPE>                    Startet moderne HTML-Regeln in den Code 
+<!--       -->                Kommentare Schreiben
+<html> </html>                Definiert HTML Webseite
+<head> </head>                Definiert Kopf der Webseite
+<title> </title>              Titel auf Tab eines Browser
+<body> </body>                Definiert Körper der Webseite 
+<hx> </hx>                    Ueberschrift x=1-6 groß zu klein 
+<p>  </p>                     Absatz
+<br>                          Neue Zeile
+<hr>                          Horizontale Linie 
+<ul> </ul>                    Ungeordnete Liste Punkte
+<ol> </ol>                    Geordnete Liste Nummeriert 
+<li> </li>                    Listenitem Auflistung
+<a href="link">Name</a>       Link herstellung
+ <button>    </button>        Button
+<img src="bild" alt="text">   Bild und alternativ Text
