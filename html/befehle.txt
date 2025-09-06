@@ -21,6 +21,24 @@
 <tbody> </tbody>                      Tabelleninhalt erstellen  
 <tr> </tr>                            Tabellenreihe 
 <td> </td>                            Tabelleninhalt Tabellenelement
+<pre> </pre>                          Text bleibt wie er geschrieben ist 
+<br>                                  Leerzeile
+<hr>                                  Strich horizontal
+<b>                                   Fetter Text (nur optisch fett)
+<strong>                              Wichtiger Text (semantisch wichtig, wird meist auch fett dargestellt)
+<i>                                   Kursiver Text (nur optisch kursiv)
+<em>            s                      Betonter Text (semantisch betont, meist kursiv dargestellt)
+<mark>                                Markierter Text (hervorgehoben, z. B. gelb hinterlegt)
+<small>                               Kleinerer Text (schriftlich kleiner dargestellt)
+<del>                                 Durchgestrichener Text (zeigt gelöschten Text)
+<ins>                                 Eingefügter Text (zeigt hinzugefügten Text, oft unterstrichen)
+<sub>                                 Tiefgestellter Text (z. B. für chemische Formeln)
+<sup>                                 Hochgestellter Text (z. B. für Exponenten oder Fußnoten)
+
+
+
+
+
 
 
 
