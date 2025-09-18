@@ -17,7 +17,8 @@ erste und letzte (0 & 255) Adresse nie nehmen da 0 ist Eingangsadresse und 255 i
 
 Je kleiner die / Zahl ist desto größer ist das Netz
 
-
+Erste Addresse ist NetzID
+die letze ist die Broadcastadresse
 
 H.D. Tipps
 
